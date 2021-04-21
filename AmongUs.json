@@ -10,7 +10,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom4",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"JitsiRoom4"
                 }],
@@ -147,11 +147,11 @@
  "tileheight":32,
  "tilesets":[
         {
-         "columns":17,
+         "columns":16,
          "firstgid":1,
          "image":"tilesets_deviant_milkian_1.png",
-         "imageheight":544,
-         "imagewidth":544,
+         "imageheight":512,
+         "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
          "spacing":0,
@@ -176,8 +176,8 @@
          "columns":8,
          "firstgid":1290,
          "image":"floortileset.png",
-         "imageheight":272,
-         "imagewidth":272,
+         "imageheight":256,
+         "imagewidth":256,
          "margin":0,
          "name":"floortileset",
          "spacing":0,
